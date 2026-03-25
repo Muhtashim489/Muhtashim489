@@ -10,7 +10,7 @@ A final year student of Mechatronics & Control Engineering, UET Lahore.
    - Embedded systems projects (Hardware–software integration, Real time applications)
    - Educational or prototype-level PCB design projects
    - Control, sensing, and automation-related applications
-   - Open-source projects related to embedded, IoT, or healthcare systems
+   - Open-source projects related to embedded, IoT, or control systems
 
 
 <!--
