@@ -1,7 +1,7 @@
 ## Hi, I’m Muhtashim Butt 👋
 
-A final year student of Mechatronics & Control Engineering, UET Lahore.
-- 🔭 Currently working on my Final Year Project 
+A student of Mechatronics & Control Engineering, UET Lahore.
+- 🔭 I recently worked on healthcare system as a Final Year Project. 
 - 🌱 I’m recently apply implementations on:
    - Embedded Systems Development
    - Microcontroller-based system design
